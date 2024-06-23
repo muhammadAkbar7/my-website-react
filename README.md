@@ -11,4 +11,4 @@ To make it work
 
 Update 1:
 
-Added a form where I can log, delete, and edit my project in react (shown in the screen shot).
+Added a form where I can log, delete, and edit my project in react (shown in the screen shot (found in front-end folder)).
